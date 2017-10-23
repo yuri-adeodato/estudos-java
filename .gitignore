@@ -4,10 +4,6 @@
 # Compiled class file
 *.class
 
-#eclipse
-.project
-.classpath
-
 # Log file
 *.log
 
