@@ -1,7 +1,7 @@
 package objects.linked.list;
 
 
-public class RegularLinkedList {
+public class RegularLinkedList implements LinkedListInterface{
 
 	private RegularLinkedList nextElement;
 
